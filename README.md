@@ -25,6 +25,9 @@ sentrick16.github.io/simon-says-game/
 
 ##  Project Structure
 simon-says-game/
+
 ├── index.html
+
 ├── style.css
+
 └── app.js
