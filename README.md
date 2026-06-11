@@ -3,7 +3,7 @@
 A browser-based **Simon Says** memory game built with vanilla HTML, CSS, and JavaScript.
 
 ## 📸 Preview
-![Simon Says Game](Game Overview.png)
+![Simon Says Game](Game%20Overview.png)
 
 ## 🚀 Live Demo
 sentrick16.github.io/simon-says-game/
